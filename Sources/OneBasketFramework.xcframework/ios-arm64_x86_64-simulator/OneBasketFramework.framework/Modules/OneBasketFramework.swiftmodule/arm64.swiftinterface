@@ -4,10 +4,12 @@
 import Foundation
 @_exported import OneBasketFramework
 import Swift
-@_hasMissingDesignatedInitializers public class ProductManager {
+public class ProductManager {
+  public init()
   public var productList: [OneBasketFramework.Product] {
     get
   }
+  public func fetchProducts() -> [OneBasketFramework.Product]
   @objc deinit
 }
 public struct Product {

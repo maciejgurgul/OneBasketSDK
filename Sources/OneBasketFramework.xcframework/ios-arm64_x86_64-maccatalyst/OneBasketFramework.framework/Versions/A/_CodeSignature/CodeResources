@@ -36,14 +36,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hV9NP6g7bFRnW6ZqcQg0AUnN0xPgTOC2zpUHWx05I4M=
+			1J9C/i2wHXnwhrOiUsTF7LLMxEqESv+1BuUyb4tp7uE=
 			</data>
 		</dict>
 		<key>Modules/OneBasketFramework.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xtrl+b8ad+jU1uczoLb8l+hfoR7o5yteQXoeYjFPQEE=
+			q9y/l8sx2DxCBB7Y/+HcVOFK2Cu5rVeMfTUW5rei+FA=
 			</data>
 		</dict>
 		<key>Modules/OneBasketFramework.swiftmodule/arm64.swiftdoc</key>
@@ -57,14 +57,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hV9NP6g7bFRnW6ZqcQg0AUnN0xPgTOC2zpUHWx05I4M=
+			1J9C/i2wHXnwhrOiUsTF7LLMxEqESv+1BuUyb4tp7uE=
 			</data>
 		</dict>
 		<key>Modules/OneBasketFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xtrl+b8ad+jU1uczoLb8l+hfoR7o5yteQXoeYjFPQEE=
+			q9y/l8sx2DxCBB7Y/+HcVOFK2Cu5rVeMfTUW5rei+FA=
 			</data>
 		</dict>
 		<key>Modules/OneBasketFramework.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dQkkLqc8I/+7MADgB7IQQ3UqxnetMhoacyBjQj2KLFc=
+			MolH6EsbUZXv7+jFLYytZZyn3AB9QlpLpnBTihd+n+4=
 			</data>
 		</dict>
 		<key>Modules/OneBasketFramework.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VWn5zI6tk7Kkx8rJKDOu4I9Lam1eK3QQfqY8X5Z4g1s=
+			KyTfVPUT3cgYTRnWMlfpaYcHBvkGQ2UA7+9na90eFOM=
 			</data>
 		</dict>
 		<key>Modules/OneBasketFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -99,14 +99,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dQkkLqc8I/+7MADgB7IQQ3UqxnetMhoacyBjQj2KLFc=
+			MolH6EsbUZXv7+jFLYytZZyn3AB9QlpLpnBTihd+n+4=
 			</data>
 		</dict>
 		<key>Modules/OneBasketFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VWn5zI6tk7Kkx8rJKDOu4I9Lam1eK3QQfqY8X5Z4g1s=
+			KyTfVPUT3cgYTRnWMlfpaYcHBvkGQ2UA7+9na90eFOM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
