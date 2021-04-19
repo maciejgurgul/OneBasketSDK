@@ -13,4 +13,6 @@ public class ProductManager {
   @objc deinit
 }
 public struct Product {
+  public let name: Swift.String
+  public let id: Swift.String
 }
