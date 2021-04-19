@@ -4,15 +4,15 @@
 import PackageDescription
 
 let package = Package(
-    name: "OneBasketSwiftPackage",
+    name: "OneBasketSDK",
     platforms: [
       .iOS(.v13)
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "OneBasketSwiftPackage",
-            targets: ["OneBasketSwiftPackage"]),
+            name: "OneBasketSDK",
+            targets: ["OneBasketSDK"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
