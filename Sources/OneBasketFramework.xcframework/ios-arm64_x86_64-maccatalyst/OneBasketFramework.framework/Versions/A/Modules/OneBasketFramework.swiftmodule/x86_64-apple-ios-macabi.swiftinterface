@@ -6,13 +6,10 @@ import Foundation
 import Swift
 public class ProductManager {
   public init()
-  public var productList: [OneBasketFramework.Product] {
-    get
-  }
-  public func fetchProducts() -> [OneBasketFramework.Product]
+  public func fetchProducts(success: @escaping ([OneBasketFramework.Product]) -> Swift.Void, failed: @escaping (Swift.String) -> Swift.Void)
   @objc deinit
 }
-public struct Product {
+public struct Product : Swift.Decodable {
   public let name: Swift.String
-  public let id: Swift.String
+  public init(from decoder: Swift.Decoder) throws
 }
